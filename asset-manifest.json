@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/react-eka/static/css/main.8d65813d.chunk.css",
+    "main.js": "/react-eka/static/js/main.565b982b.chunk.js",
+    "main.js.map": "/react-eka/static/js/main.565b982b.chunk.js.map",
+    "runtime-main.js": "/react-eka/static/js/runtime-main.5a3531a2.js",
+    "runtime-main.js.map": "/react-eka/static/js/runtime-main.5a3531a2.js.map",
+    "static/js/2.7ca5bb83.chunk.js": "/react-eka/static/js/2.7ca5bb83.chunk.js",
+    "static/js/2.7ca5bb83.chunk.js.map": "/react-eka/static/js/2.7ca5bb83.chunk.js.map",
+    "index.html": "/react-eka/index.html",
+    "precache-manifest.a91beb095638e1d6f82c51a7ab06235d.js": "/react-eka/precache-manifest.a91beb095638e1d6f82c51a7ab06235d.js",
+    "service-worker.js": "/react-eka/service-worker.js",
+    "static/css/main.8d65813d.chunk.css.map": "/react-eka/static/css/main.8d65813d.chunk.css.map",
+    "static/js/2.7ca5bb83.chunk.js.LICENSE": "/react-eka/static/js/2.7ca5bb83.chunk.js.LICENSE"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.5a3531a2.js",
+    "static/js/2.7ca5bb83.chunk.js",
+    "static/css/main.8d65813d.chunk.css",
+    "static/js/main.565b982b.chunk.js"
+  ]
+}
